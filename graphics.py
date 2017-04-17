@@ -1,4 +1,7 @@
 # graphics.py
+
+# Source of this module: http://mcsp.wartburg.edu/zelle/python/
+
 """Simple object oriented graphics library  
 
 The library is designed to make it very easy for novice programmers to
