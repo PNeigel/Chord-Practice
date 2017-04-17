@@ -1,2 +1,4 @@
 # Chord-Practice
-Simple tool for jazz-chord practice in Python
+Simple Python program for jazz-chord practice.
+
+Graphics module from http://mcsp.wartburg.edu/zelle/python/
